@@ -1,11 +1,11 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-Projeto criado para fins de estudos dando seguimento ao curso "CAIXA - IA Generativa com Microsoft Copilot". 
+Projeto desenvolvido com o propósito de estudos, seguindo o curso "CAIXA - IA Generativa com Microsoft Copilot"
 
 
 ```markdown
 
-##Projeto - Beirando a realidade, ou não? 
+Projeto - Beirando a realidade, ou não? 
 
 ## 📒 Descrição
 Criação de personagem animado com IA o mais proximo possivel da realidade.
